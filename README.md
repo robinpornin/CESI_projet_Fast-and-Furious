@@ -9,7 +9,7 @@ Code Python utilisant les lois de la mécanique de Newton, afin de retracer le p
 - Chevrolet Camaro
 - Mazda RX-7
 - Nissan Skyline
-- Mitsubishi Lancer
+- Mitsubishi Lancer  
 (utilisation du paradigme orienté objet pour déclarer les voitures).
 
 #
