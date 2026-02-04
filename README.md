@@ -2,7 +2,7 @@
 
 Projet académique purement **fictif**.
 
-Code Python utilisant les lois de la mécanique de Newton via la librairie ODEINT, afin de retracer le parcours de différentes voitures : 
+Code Python utilisant les lois de la mécanique de Newton, afin de retracer le parcours de différentes voitures sur une piste complexe: 
 
 - Dodge Charger
 - Toyota Supra
