@@ -11,7 +11,7 @@ Code Python utilisant les lois de la mécanique de Newton, afin de retracer le p
 - Nissan Skyline
 - Mitsubishi Lancer  
 
-(utilisation du paradigme orienté objet pour déclarer les voitures).
+(utilisation de la programmation orientée objet (POO) pour déclarer les voitures).
 
 #
 
