@@ -11,7 +11,10 @@ Code Python utilisant les lois de la mécanique de Newton via la librairie ODEIN
 - Nissan Skyline
 - Mitsubishi Lancer
 
+  --
+
 
 Code utilisant les librairies Python suivantes :  
-ODEINT (Ordinary Differential Equation INTegrator) pour la résolution d'équations différentielles non-linéaires  
-MATPLOTLIB pour tracer les courbes d'évolution des vitesses et des trajectoires
+
+- ODEINT (Ordinary Differential Equation INTegrator) pour la résolution d'équations différentielles non-linéaires  
+- MATPLOTLIB pour tracer les courbes d'évolution des vitesses et des trajectoires
