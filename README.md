@@ -4,7 +4,8 @@
 Projet académique fictif réalisé dans le cadre de la formation au CESI.  
 L’objectif est de **simuler numériquement les trajectoires de différentes voitures** sur une piste complexe, en s’appuyant sur **les lois fondamentales de la mécanique de Newton**.
 
-Ce projet met en œuvre des outils mathématiques et informatiques pour modéliser le mouvement de véhicules en dynamique.
+Ce projet met en œuvre des outils mathématiques et informatiques pour modéliser le mouvement de véhicules en dynamique.  
+Compilateur recommandé (notamment pour l'affichage des graphes en bonne et due forme) : **Spyder**
 
 ---
 
