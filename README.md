@@ -38,7 +38,7 @@ Le programme simule une piste composée de plusieurs phases :
    - Étude de la portée et de la vitesse à l’atterrissage
 
 4. **Piste plate**
-   - Phase finale d’accélération et de freinage
+   - Phase finale d’accélération et fin de parcours
    - Calcul du temps total du parcours
 
 ---
