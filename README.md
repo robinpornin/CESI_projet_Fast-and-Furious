@@ -60,6 +60,8 @@ BONUS : **Utilisation de gadgets de performance**
 
 ## 🧠 Technologies et bibliothèques utilisées
 - **Python**
+- **NumPy**
+- **SciPy**
 - **ODEINT** (Ordinary Differential Equation INTegrator)  
   → Résolution numérique d’équations différentielles non linéaires
 - **Matplotlib**  
