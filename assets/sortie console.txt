@@ -1,0 +1,43 @@
+Choix voiture : 
+ tapez 1 pour la Dodge Charger 
+ tapez 2 pour la Toyota Supra 
+ tapez 3 pour la Chevrolet Camaro 
+ tapez 4 pour la Mazda RX-7 
+ tapez 5 pour la Nissan Skyline 
+ tapez 6 pour la Mitsubishi Lancer
+ >>> 5
+
+Voiture choisie : Nissan Skyline
+
+Jupe avant ? : OUI = 1 ; NON = 0 
+>>> 1
+Ailes ? : OUI = 1 ; NON = 0 
+>>> 0
+Pour la pente : NOS = 1 ; pas de NOS = 0 
+>>> 1
+
+
+ETAPE 1 : PLAN INCLINE
+
+Vitesse en bas de la pente :  21.013 m/s. ; 
+soit : 75.647 km/h.
+Temps en bas de la pente :  2.94 s.
+
+
+ETAPE 2 : LOOPING
+
+Pour le loop : NOS = 1 ; pas de NOS = 0 
+>>> 0
+Vitesse minimale pour Nissan Skyline : 17.18 m/s
+Figure 2
+  pdfpngsvg
+
+
+ETAPE 4 : PISTE PLATE 
+
+Pour la fin : NOS = 1 ; pas de NOS = 0 
+ >>> 0
+Position initiale sur la piste :  1.46 m.
+Temps piste plate 0.3645 secondes.
+Temps final : 5.532 secondes.
+----------------------------------
