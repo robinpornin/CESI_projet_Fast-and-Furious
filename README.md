@@ -1,4 +1,4 @@
-# 🏎️ Projet Fast & Furious – Simulation de trajectoires en Python
+# Projet Fast & Furious – Simulation de trajectoires en Python
 
 ## 📌 Présentation
 Projet académique fictif réalisé dans le cadre de la formation au CESI.  
