@@ -3,7 +3,7 @@ Choix voiture :
  tapez 2 pour la Toyota Supra 
  tapez 3 pour la Chevrolet Camaro 
  tapez 4 pour la Mazda RX-7 
- tapez 5 pour la Nissan Skyline 
+ tapez 5 pour la Nissan Skyline  
  tapez 6 pour la Mitsubishi Lancer
  >>> 5
 
