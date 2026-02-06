@@ -42,6 +42,7 @@ Le programme simule une piste composée de plusieurs phases :
    - Phase finale d’accélération et fin de parcours
    - Calcul du temps total du parcours
 
+
 BONUS : **Utilisation de gadgets de performance**  
    - Boost NOS augmentant la valeur de l'accélération  
    - Ailes rétractables augmentant la valeur de portance
