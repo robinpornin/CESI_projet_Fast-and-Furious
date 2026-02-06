@@ -22,6 +22,27 @@ Chaque véhicule est représenté par une classe avec ses propres paramètres ph
 
 ---
 
+## 🧩 Déroulement de la simulation
+Le programme simule une piste composée de plusieurs phases :
+
+1. **Plan incliné**
+   - Calcul de la vitesse et du temps en bas de pente
+   - Prise en compte des frottements et de l’aérodynamique
+
+2. **Looping**
+   - Calcul de la vitesse minimale d’entrée
+   - Vérification de la faisabilité physique du looping
+
+3. **Saut de ravin**
+   - Simulation balistique avec forces aérodynamiques
+   - Étude de la portée et de la vitesse à l’atterrissage
+
+4. **Piste plate**
+   - Phase finale d’accélération et de freinage
+   - Calcul du temps total du parcours
+
+---
+
 ## ⚙️ Fonctionnement
 - Modélisation des équations du mouvement à partir des lois de Newton  
 - Résolution d’équations différentielles non linéaires  
